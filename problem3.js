@@ -1,0 +1,8 @@
+const ex1 = 9999777788880000;
+const ex2 = 1111111111111110;
+const ex3 = a92332119c011112;
+const ex4 = 6666666666661666;
+const ex5 = 4444444444444444;
+
+// WRITE YOUR FUNCTION HERE
+console.log("hello world");
